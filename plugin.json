@@ -328,5 +328,49 @@
         "description": "Live TV",
         "url": "https://apk.bongngotv.app/LiveTVProvider.cs3",
         "name": "LiveTVProvider"
+    },
+    {
+        "iconUrl": "https://tvhay8.org/assets/v1/images/logo.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/duongnv1996/bongngo-cs3-extension",
+        "fileSize": 14543,
+        "status": 0,
+        "language": "vi",
+        "authors": [
+            "Blue"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 6,
+        "internalName": "TvHayProvider",
+        "description": "#TVHay Phim Thuy\u1ebft Minh",
+        "url": "https://apk.bongngotv.app/TvHayProvider.cs3",
+        "name": "TvHayProvider"
+    },
+    {
+        "iconUrl": "https://animehay.me/themes/img/favicon.ico",
+        "apiVersion": 3,
+        "repositoryUrl": "https://github.com/duongnv1996/bongngo-cs3-extension",
+        "fileSize": 41610,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "Blue"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries", 
+            "Movie"
+        ],
+        "version": 3,
+        "internalName": "Phim4K",
+        "description": "#1",
+        "url": "https://apk.bongngotv.app/Phim4kProvider.cs3",
+        "name": "Phim4K"
     }
+
 ]
