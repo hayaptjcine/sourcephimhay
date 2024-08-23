@@ -289,5 +289,44 @@
         "description": "#1",
         "url": "https://apk.bongngotv.app/IPTVVNProvider.cs3",
         "name": "IPTV"
+    },
+    {
+        "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVXgt1ROWUjrXsmdPpum1ql3IGegwcagLeNZsiSO0J&s",
+        "apiVersion": 2,
+        "repositoryUrl": "https://github.com/duongnv1996/bongngo-cs3-extension",
+        "fileSize": 41610,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "Blue"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 103,
+        "internalName": "BongNgoTVProvider",
+        "description": "#1",
+        "url": "https://apk.bongngotv.app/BongNgoTVProvider.cs3",
+        "name": "BongNgoTVProvider"
+    },
+    {
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/duongnv1996/bongngo-cs3-extension",
+        "fileSize": 9087,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "Blue"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 104,
+        "internalName": "LiveTVProvider",
+        "description": "Live TV",
+        "url": "https://apk.bongngotv.app/LiveTVProvider.cs3",
+        "name": "LiveTVProvider"
     }
 ]
