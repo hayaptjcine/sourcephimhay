@@ -3,6 +3,6 @@
     "description": "Providers from all country",
     "manifestVersion": 1,
     "pluginLists": [
-        "https://raw.githubusercontent.com/hayaptjcine/sourcephimhay/main/plugin.json"
+        "https://raw.githubusercontent.com/hayaptjcine/sourcephimhay/master/plugin.json"
     ]
 }
